@@ -83,7 +83,3 @@ At the end of the script, the entire results folder will be zipped and downloade
 - The script is designed to work in environments like Google Colab or Jupyter Notebooks. Ensure you have access to a GPU for faster inference.
 - The `google.colab.files` module is included for downloading files within Colab.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-```
